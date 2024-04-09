@@ -1,0 +1,7 @@
+C:\Users\ELViN\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\ELViN\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\ELViN\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\ELViN\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.AssemblyReference.cache
+C:\Users\ELViN\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\ELViN\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\ELViN\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
